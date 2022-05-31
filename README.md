@@ -1,0 +1,2 @@
+# SolidWorks
+SolidWorks_Config
